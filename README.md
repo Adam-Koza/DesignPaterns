@@ -1,4 +1,4 @@
-# DesignPaterns
+# Design Patterns
 
 Chossen patterns: ERC1643 (Document management) + Ownership + White List.
 
