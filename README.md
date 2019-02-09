@@ -1,5 +1,7 @@
 # DesignPaterns
 
+Chossen patterns: ERC1643 (Document management) + Ownership + White List.
+
 console output: 
 
 
